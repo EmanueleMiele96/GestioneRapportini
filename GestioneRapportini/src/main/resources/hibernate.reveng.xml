@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="gestionerapportini" match-name="clienti"/>
+  <table-filter match-catalog="gestionerapportini" match-name="comdip"/>
+  <table-filter match-catalog="gestionerapportini" match-name="commesse"/>
+  <table-filter match-catalog="gestionerapportini" match-name="dipendenti"/>
+  <table-filter match-catalog="gestionerapportini" match-name="rapportini"/>
+  <table-filter match-catalog="gestionerapportini" match-name="ruoli"/>
+  <table-filter match-catalog="gestionerapportini" match-name="tipcontratto"/>
+  <table-filter match-catalog="gestionerapportini" match-name="tipocommesse"/>
+</hibernate-reverse-engineering>
